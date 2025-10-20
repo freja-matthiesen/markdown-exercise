@@ -23,7 +23,7 @@ Et kode eksempel der viser 3 links
   </ul>
 </nav>
 ````
-![mark]skaermbillede.png
+![mark](skaermbillede.png)
 
 *"bee great"* fra la broung 
 
